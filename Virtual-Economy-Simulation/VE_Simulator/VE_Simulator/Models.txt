@@ -1,0 +1,66 @@
+Things to work on first
+1. Primary Company behavior -> toward maximizing profits
+2. Primary Household behavior -> toward maximizing utility
+
+but they may have different motivations and objectives (sub objectives) so I need to define all those objectives and combine them in
+linear relations so that all behaviors can be accounted for.
+
+For example, Divide firm profit into two category
+1. Current Profit
+2. Future Profit (Investment) "-"
+
+Assume that a firm will try to maximize both their current profit and future profit, but with a degree of discrimination firms operating in some
+industries will weigh current profit more and future profit less, and applies vice versa.
+
+1. Maximizing current profit
+Using an indifference curve, inputs will be Labor (L), and Capital(K). --> Now every Output level across the model will be measured with this model.
+
+2. Maximizing future profit
+Economic entities cannot predict a future, they cannot predict whether their investment today will maximize or even
+increase future output. Still, they will invest in K through a decision made by an owner, board, or entities with great respect of responsibility.
+
+People with conservative mind will minimize this investment and people with progressive mind will maximize this investment.
+I can define the conservativeness or progressiveness of a firm via averaging members of a company with big responsibilities. eg) CEO, Board Memebers.
+
+//Determinig conservativeness will be dicussed later in personal behavior.
+
+Eventually, A firm will allocate an amount of K based on their characteristics. Invested K will be mostly represented as R&D.
+//Return on R&D will be dicussed when I come up with an idea.
+
+Now the final model
+Difine,
+P = Profit
+C = Current
+F = Future
+
+>> P = C + F
+
+To aquire C,
+use cobb-douglas production function,
+Y = A * {K - K(Invested)}^a * L ^ a
+
+//(K(Total) = K + K(Invested))
+
+Price should be subdivided into several prices according to what market they are sold in. Arbitrary posibilities exist.
+
+//This assumption that arbitrary opportunity exists is an unusual assumption given that every economic and financial models and processes assume
+no arbitrary opportunity, but in the real world, arbitrary opportunity clearly exists. By saying that an arbitrary opportunity exists I mean that
+prices of same goods or services may vary in different markets, but they mostly are not being traded because trading comes with costs (transport,
+tax, time, etc...).
+This arbitrary relationships across different markets must be dicussed later in depth.
+
+Back to my Current Profit.
+
+>> C = Sum(Price in Market(i) * Quantity in Market(i))
+
+==> Calculating this will need to be followed by defining market demand.
+Now, market can be defined as four categories
+1. Perfect Competition
+2. Monopolistic Competition
+3. Oligopoly
+4. Monopoly
+
+In a perfect competition market, firm is a price-taker. So I only have to define market demand line. Market demand line will now be introduced.
+
+Market demand is decided by market participants and upon creating market participants' consumption behavior and consumption basket, I can acquire
+that markets' comsumption behavior as a whole.
